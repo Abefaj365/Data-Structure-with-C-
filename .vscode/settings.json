@@ -2,5 +2,12 @@
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp"
-    }
+    },
+    "cSpell.words": [
+        "Kadane's",
+        "leftmax",
+        "maxprofit",
+        "rightmax",
+        "Subarray"
+    ]
 }
