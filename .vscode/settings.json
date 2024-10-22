@@ -9,5 +9,6 @@
         "maxprofit",
         "rightmax",
         "Subarray"
-    ]
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
 }
