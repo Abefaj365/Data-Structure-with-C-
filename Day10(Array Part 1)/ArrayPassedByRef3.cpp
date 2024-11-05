@@ -1,8 +1,7 @@
 #include<iostream>
 using namespace std;
 
-void func(int arr[]){
-
+void func(int arr[]){  //or we can use (*arr) like pointer
     arr[0]=1000;
 
 }
